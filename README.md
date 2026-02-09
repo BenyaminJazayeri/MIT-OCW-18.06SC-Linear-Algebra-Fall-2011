@@ -22,7 +22,7 @@ Course Link: https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
 | Least Squares, Determinants and Eigenvalues | Orthogonal vectors, projections, least squares, Gram-Schmidt process, determinant properties, eigenvalues, diagonalization, differential equations, Markov matrices |
 | Positive Definite Matrices and Applications | Symmetric matrices, complex matrices, FFT, positive definiteness, Jordan form, singular value decomposition, linear transformations, basis changes, image compression, pseudoinverses |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
