@@ -26,10 +26,10 @@ Course Link: https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
 
 | Assessment | Grade |
 |------------|-------|
-| Exam 1 | 88/100* |
-| Exam 2 | 94/100* |
-| Exam 3 | 80/100* |
-| Final Exam | 93/100* |
+| [Exam 1](./Exam%201) | 88/100* |
+| [Exam 2](./Exam%202) | 94/100* |
+| [Exam 3](./Exam%203) | 80/100* |
+| [Final Exam](./Final%20Exam) | 93/100* |
 
 \*Exams were not graded at the time of completion (~2024). To be more precise, they were graded in 2026 using Claude Opus 4.6 with extended thinking enabled, cross-referenced with the official solutions.
 
